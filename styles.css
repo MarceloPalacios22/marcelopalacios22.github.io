@@ -39,3 +39,16 @@ nav ul li a {
     color: #fff;
     text-decoration: none;
 }
+
+.img_cv{
+    min-width:200px;
+    height:200px;
+    border-radius:5px;
+    margin:10px;
+}
+
+    .section {
+    padding: 20px;
+    width: 80%;
+    box-sizing: border-box;
+}
